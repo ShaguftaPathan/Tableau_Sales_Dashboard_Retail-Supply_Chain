@@ -31,7 +31,7 @@ The dataset included detailed transaction records for the year 2023, capturing:
    * High-resolution trend charts for both sales and profit
    * Insights into promotions, stockouts, or market behavior
   
-![](/Sales%20Dashboard%20Tableau.png)
+![](Sales_Dashboard_Tableau.png)
 
 # Tools & Tech Stack
 * Tableau Desktop for dashboard development
